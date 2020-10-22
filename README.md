@@ -11,7 +11,7 @@
 #### [九评之九：评中国共产党的流氓本性](chapters/9.md)
 
 ---
-####  [《九评共产党》 音频下载 ](audios/README.md) &nbsp;|&nbsp; [ 手机图片版 ](resources/png.md)
+####  《九评共产党》 电子书下载：[TXT版](https://cdn.jsdelivr.net/gh/gfw-breaker/9ping.md1/resources/9ping.txt) &nbsp;|&nbsp; [PDF版](https://cdn.jsdelivr.net/gh/gfw-breaker/9ping.md1/resources/9ping.pdf) &nbsp;|&nbsp; [EPUB版](https://cdn.jsdelivr.net/gh/gfw-breaker/9ping.md1/resources/9ping.epub)
 --- 
 
 在前苏联和东欧各国共产党政权倒台十几年后的今天，世界共产主义运动早已被全世界所唾弃，中国共产党走入坟墓也只是一个时间的问题。
